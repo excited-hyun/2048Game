@@ -1,2 +1,2 @@
 # 2017 Introduction-to-Engineering-Design
-2028게임을 c언어로 리눅스 환경에서 구현
+2048게임을 c언어로 리눅스 환경에서 구현
